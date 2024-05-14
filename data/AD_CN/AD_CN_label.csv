@@ -1,0 +1,232 @@
+Subject ID,Sex,Research Group,Age,Description,encoded
+002_S_0295,M,CN,84.9,B1-Calibration Body,0
+002_S_0413,F,CN,76.4,B1-Calibration PA,0
+002_S_0685,F,CN,89.7,B1-Calibration PA,0
+002_S_1261,F,CN,71.3,B1-Calibration Body,0
+002_S_5018,M,AD,73.4,MPRAGE SENSE2,2
+003_S_4644,F,CN,67.7,Calibration Scan,0
+003_S_4900,F,CN,59.9,Sag IR-SPGR,0
+003_S_5165,M,AD,78.9,T2-weighted trace,2
+003_S_5187,F,AD,61.5,Axial T2 Star,2
+005_S_0221,M,AD,67.5,B1-Calibration Body,2
+005_S_0223,F,CN,78.1,B1-Calibration Body,0
+005_S_0602,M,CN,71.0,B1-Calibration PA,0
+005_S_0610,M,CN,79.2,B1-Calibration Body,0
+005_S_1341,F,AD,71.7,B1-Calibration PA,2
+005_S_4910,F,AD,81.6,Accelerated Sag IR-SPGR,2
+005_S_5038,M,AD,81.6,3 Plane Localizer,2
+005_S_5119,F,AD,77.1,3 Plane Localizer,2
+006_S_0484,M,CN,70.9,B1-Calibration PA,0
+006_S_0498,M,CN,70.6,B1-Calibration PA,0
+006_S_0547,M,AD,75.8,B1-Calibration PA,2
+006_S_0731,M,CN,71.7,B1-Calibration Body,0
+007_S_0316,M,AD,80.9,3-plane localizer,2
+007_S_1206,M,CN,73.0,3-plane localizer,0
+007_S_4911,M,AD,74.6,3 Plane Localizer,2
+007_S_5196,F,AD,72.9,Calibration Scan,2
+009_S_0751,M,CN,70.9,3 PL LOC,0
+009_S_1354,F,AD,59.0,3 PL LOC,2
+009_S_5027,M,AD,75.6,Axial T2-FLAIR,2
+009_S_5037,M,AD,67.5,localizer,2
+009_S_5224,M,AD,78.1,HighResHippo,2
+009_S_5252,M,AD,56.6,Axial T2 TSE with Fat Sat,2
+010_S_0472,M,CN,72.1,MPRAGE SENS,0
+011_S_0003,M,AD,81.3,B1-calibration Body,2
+011_S_0005,M,CN,73.8,B1-calibration Body,0
+011_S_0008,F,CN,84.6,B1-calibration Body,0
+011_S_0010,F,AD,74.0,B1-calibration Head,2
+011_S_0016,M,CN,65.5,B1-calibration Body,0
+011_S_0023,M,CN,71.9,Axial PD-T2 TSE,0
+011_S_4845,F,AD,68.0,Axial T2-FLAIR,2
+011_S_4906,F,AD,75.8,MPRAGE,2
+011_S_4949,F,AD,78.1,Field_mapping,2
+012_S_0637,F,CN,76.2,Double_TSE,0
+012_S_0720,F,AD,77.5,Double_TSE,2
+013_S_4616,M,CN,85.0,Field Mapping,0
+014_S_0519,M,CN,74.2,B1-Calibration Body,0
+014_S_0520,F,CN,77.8,B1-Calibration PA,0
+016_S_1263,F,AD,64.9,B1-calibration Body,2
+016_S_4583,M,AD,86.6,3 Plane Localizer,2
+016_S_4638,M,CN,74.3,Accelerated SAG IR-SPGR,0
+016_S_4688,F,CN,81.9,Axial FLAIR,0
+016_S_4887,M,AD,73.9,3 Plane Localizer,2
+016_S_4951,F,CN,72.0,3 Plane Localizer,0
+016_S_4952,F,CN,69.4,Sag IR-SPGR,0
+016_S_5057,M,AD,75.5,T2-weighted trace,2
+016_S_5251,F,AD,66.3,Axial T2 Star,2
+018_S_0043,M,CN,76.4,ADNI       Double_TSE,0
+018_S_0055,M,CN,75.7,ADNI       MPRAGE-1.2*,0
+018_S_0286,M,AD,66.0,Double_TSE_,2
+018_S_4733,M,AD,75.4,MPRAGE SENSE2,2
+019_S_5012,M,AD,76.4,3 Plane Localizer,2
+019_S_5019,F,AD,63.0,Axial T2-FLAIR,2
+020_S_0097,F,CN,72.9,B1-calibration Body,0
+020_S_0213,M,AD,63.1,B1-calibration Body,2
+021_S_0159,F,CN,78.0,3-plane localizer,0
+021_S_0984,M,CN,76.7,3-plane localizer,0
+021_S_1109,F,AD,77.9,3-plane localizer,2
+021_S_4718,M,AD,78.6,Axial FLAIR,2
+021_S_4924,M,AD,77.4,3 Plane Localizer,2
+022_S_0014,F,CN,78.6,B1-calibration Head,0
+022_S_0066,M,CN,74.6,B1-calibration Head,0
+022_S_0096,M,CN,79.8,B1-calibration Body,0
+022_S_0130,M,CN,73.2,B1-calibration Head,0
+022_S_0219,M,AD,74.6,None Provided,2
+022_S_0543,F,AD,72.2,B1-calibration Body,2
+023_S_0031,F,CN,77.8,B1-calibration Head,0
+023_S_0061,F,CN,77.2,B1-calibration Head,0
+023_S_0926,F,CN,71.2,B1-calibration Body,0
+023_S_1190,F,CN,76.6,B1-calibration Head,0
+023_S_5120,M,AD,81.2,ASL PERFUSION,2
+023_S_5241,M,AD,88.0,AXIAL_T2_STAR,2
+024_S_1063,F,CN,78.5,B1-Calibration PA,0
+024_S_1171,M,AD,71.6,B1-Calibration Body,2
+024_S_4905,F,AD,72.8,AXIAL_T2_STAR,2
+024_S_5054,F,AD,74.0,Axial T2-FLAIR,2
+027_S_0118,M,CN,80.6,B1-Calibration Body,0
+027_S_0120,M,CN,72.1,B1-Calibration Body,0
+027_S_0850,M,AD,78.2,B1-Calibration Body,2
+027_S_4962,F,AD,80.2,Ax T2 FLAIR,2
+027_S_4964,M,AD,81.0,3 PLANE LOCALIZER,2
+029_S_0836,M,AD,83.2,B1-Calibration Body,2
+029_S_0843,M,CN,70.7,B1-Calibration PA,0
+029_S_0866,F,CN,80.1,B1-Calibration PA (SERIES 4),0
+029_S_4585,M,CN,65.5,IR-SPGR w/acceleration,0
+031_S_0321,M,AD,68.4,"Head,3-P,2D,LOCALIZER",2
+031_S_0618,M,CN,75.0,"Head,3-P,2D,LOCALIZER",0
+032_S_0095,M,CN,71.2,ADNI       Double_TSE,0
+032_S_0479,F,CN,73.6,Double_TSE,0
+032_S_0677,M,CN,70.9,Double_TSE,0
+032_S_1037,M,AD,73.8,Double_TSE,2
+032_S_1169,F,CN,72.3,Double_TSE,0
+033_S_0923,M,CN,83.3,B1-Calibration Body,0
+033_S_1016,F,CN,78.5,B1-Calibration Body,0
+033_S_1098,F,CN,72.1,B1-Calibration Body,0
+033_S_1281,F,AD,77.7,B1-Calibration Body,2
+035_S_0341,M,AD,74.1,B1-calibration Body,2
+035_S_0555,M,CN,76.7,B1-calibration Head,0
+036_S_0577,F,AD,72.5,B1-calibration Body,2
+037_S_0467,F,CN,81.2,"Head,3-P,2D,LOCALIZER",0
+041_S_1002,F,CN,76.5,B1-calibration Body,0
+053_S_1044,M,AD,65.6,B1-Calibration Body,2
+053_S_5070,M,AD,71.3,MPRAGE,2
+053_S_5208,M,AD,68.8,MPRAGE SENSE2,2
+057_S_0474,F,AD,77.4,B1-calibration Head,2
+057_S_0779,M,CN,79.6,B1-calibration Body,0
+057_S_0818,F,CN,74.1,B1-calibration Head,0
+057_S_1371,M,AD,84.4,B1-calibration Body,2
+057_S_1373,M,AD,75.5,B1-calibration Body,2
+057_S_1379,M,AD,87.9,B1-calibration Head,2
+062_S_0535,M,AD,76.8,B1-calibration Body,2
+062_S_0690,M,AD,79.8,B1-calibration Head,2
+062_S_0768,M,CN,77.3,B1-calibration Head,0
+067_S_0056,F,CN,69.7,B1-calibration Head,0
+067_S_0059,F,CN,71.0,B1-calibration Body,0
+067_S_0257,F,CN,78.7,B1-calibration Body,0
+067_S_4728,M,AD,82.0,Field_mapping,2
+067_S_5205,F,AD,59.4,Axial T2-FLAIR,2
+068_S_0127,M,CN,70.8,ADNI       Double_TSE,0
+068_S_0210,F,CN,72.5,ADNI       Double_TSE,0
+068_S_4859,M,AD,72.3,localizer,2
+070_S_4719,F,AD,79.2,MPRAGE,2
+070_S_4856,F,CN,65.1,localizer,0
+070_S_5040,F,CN,76.0,MPRAGE GRAPPA2,0
+073_S_0089,M,CN,65.2,B1-calibration Body,0
+073_S_0311,F,CN,78.2,B1-calibration Head,0
+073_S_0312,M,CN,83.0,B1-calibration Head,0
+073_S_0386,F,CN,72.4,B1-calibration Body,0
+073_S_0565,M,AD,74.7,B1-calibration Head,2
+073_S_4739,M,CN,65.2,MPRAGE GRAPPA2,0
+073_S_4762,M,CN,73.8,ADNI_gre_field_mapping,0
+073_S_4795,M,CN,61.3,localizer,0
+073_S_4853,F,AD,70.9,ASL PERFUSION,2
+073_S_5016,F,AD,64.4,Axial T2-FLAIR,2
+073_S_5023,F,CN,63.6,Axial T2-FLAIR,0
+073_S_5090,M,AD,58.9,T2 tse axial hp scout,2
+082_S_5029,M,AD,79.6,MPRAGE GRAPPA2,2
+094_S_4089,M,AD,73.8,3 Plane Localizer,2
+094_S_4282,M,AD,89.7,Axial T2 Star,2
+094_S_4737,F,AD,74.4,3 Plane Localizer,2
+098_S_0172,F,CN,70.7,3-plane localizer,0
+098_S_0896,M,CN,77.0,B1-Calibration Body,0
+098_S_4003,F,CN,72.4,3 Plane Localizer,0
+098_S_4018,M,CN,76.2,3 Plane Localizer,0
+098_S_4050,M,CN,77.1,Axial FLAIR,0
+098_S_4201,F,AD,64.1,Calibration Scan,2
+098_S_4215,M,AD,81.7,3 Plane Localizer,2
+098_S_4275,M,CN,72.9,Accelerated Sag IR-SPGR,0
+099_S_0352,F,CN,77.1,B1-calibration Head,0
+099_S_0470,F,AD,86.8,B1-calibration Body,2
+099_S_0492,M,AD,87.5,B1-calibration Head,2
+099_S_0533,F,CN,81.1,B1-calibration Body,0
+099_S_0534,M,CN,62.9,B1-calibration Head,0
+099_S_1144,M,AD,77.5,B1-calibration Head,2
+099_S_4076,F,CN,72.7,MPRAGE GRAPPA2,0
+099_S_4086,M,CN,81.9,AXIAL_T2_STAR,0
+099_S_4104,M,CN,72.5,localizer,0
+099_S_4994,M,AD,85.0,localizer,2
+100_S_0035,M,CN,77.0,ADNI STUDY Double_TSE2s,0
+100_S_0047,M,CN,84.8,ADNI STUDY Double_TSE2s,0
+100_S_1062,M,AD,82.0,ADNI-R11   Double_TSE,2
+109_S_1013,M,CN,77.9,B1-calibration Body,0
+114_S_0166,F,CN,72.6,B1-calibration Head,0
+114_S_0173,M,CN,73.3,B1-calibration Body,0
+114_S_0374,F,AD,76.0,B1-calibration Body,2
+114_S_0416,F,CN,72.7,B1-calibration Body,0
+116_S_0657,F,CN,77.9,"Head,3-P,2D,LOCALIZER",0
+116_S_4010,F,CN,70.8,ASL PERFUSION,0
+116_S_4043,M,CN,82.1,MPRAGE,0
+116_S_4092,F,CN,81.6,AXIAL_T2_STAR,0
+116_S_4195,M,AD,62.3,AXIAL_T2_STAR,2
+116_S_4209,F,AD,77.8,AXIAL_T2_STAR,2
+116_S_4338,M,AD,80.6,ADNI_gre_field_mapping,2
+116_S_4453,M,CN,66.0,AXIAL_T2_STAR,0
+116_S_4483,F,CN,69.6,localizer,0
+116_S_4732,M,AD,77.3,ADNI_gre_field_mapping,2
+116_S_4855,M,CN,83.9,localizer,0
+123_S_0106,F,CN,73.3,ADNI       DOUBLE TSE,0
+123_S_4526,M,AD,79.5,localizer,2
+126_S_0680,M,CN,77.9,B1-Calibration HEAD,0
+126_S_4494,M,AD,71.2,Axial T2 Star,2
+127_S_4148,M,CN,73.1,Sag IR-SPGR,0
+127_S_4198,F,CN,78.5,Accelerated Sag IR-SPGR,0
+127_S_4500,F,AD,90.4,3 Plane Localizer,2
+127_S_4940,M,AD,89.4,Accelerated Sag IR-SPGR,2
+127_S_4992,F,AD,63.8,3 Plane Localizer,2
+127_S_5028,M,AD,61.9,Accelerated Sag IR-SPGR,2
+127_S_5058,M,AD,61.8,3 Plane Localizer,2
+127_S_5067,M,AD,80.7,3 Plane Localizer,2
+127_S_5095,M,AD,66.0,3 Plane Localizer,2
+128_S_4586,M,CN,76.1,localizer,0
+128_S_4774,M,AD,85.9,ASL PERFUSION,2
+128_S_4832,M,CN,69.8,localizer,0
+128_S_5123,F,AD,73.3,MPRAGE,2
+129_S_0778,M,CN,72.6,"Head,3-P,2D,LOCALIZER",0
+129_S_4369,M,CN,68.4,T2-weighted trace,0
+129_S_4371,M,CN,67.8,Axial T2star,0
+129_S_4396,F,CN,78.5,Axial T2star,0
+129_S_4422,F,CN,70.9,IR-SPGR w/acceleration,0
+130_S_0886,F,CN,71.4,B1-Calibration Body,0
+130_S_4343,M,CN,79.7,MPRAGE SENSE2,0
+130_S_4352,M,CN,83.7,3 Plane Localizer,0
+130_S_4730,F,AD,81.2,3 Plane Localizer,2
+130_S_4971,M,AD,76.5,Field Mapping,2
+130_S_4982,F,AD,58.3,MPRAGE,2
+130_S_4984,F,AD,73.2,3 Plane Localizer,2
+130_S_4990,F,AD,75.2,3 Plane Localizer,2
+130_S_4997,F,AD,60.7,Field Mapping,2
+130_S_5006,F,AD,68.4,Axial T2-Star REPEAT,2
+131_S_5138,M,AD,60.7,3 Plane Localizer,2
+135_S_4863,M,AD,70.1,localizer,2
+135_S_4954,M,AD,61.2,ASL PERFUSION-EYES OPEN,2
+135_S_5015,F,AD,77.9,localizer,2
+135_S_5275,F,AD,78.0,localizer,2
+136_S_0186,F,CN,80.5,B1-Calibration PA,0
+137_S_0438,M,AD,82.0,3-plane localizer,2
+137_S_0459,M,CN,73.0,3-plane localizer,0
+137_S_0686,M,CN,72.1,3-plane localizer,0
+137_S_0972,M,CN,78.0,3-plane localizer,0
+137_S_1041,M,AD,71.0,Axial PD/T2 FSE,2
+137_S_4587,F,CN,65.8,MPRAGE_GRAPPA2,0
+141_S_0717,M,CN,76.3,B1-calibration Body,0
+941_S_1203,M,CN,83.4,B1-calibration Head,0
